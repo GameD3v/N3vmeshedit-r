@@ -1,0 +1,21 @@
+﻿   Qt/MSBuild: 3.3.1.1
+  Reading Qt configuration (E:/Qt/6.9.0/msvc2022_64/bin/qmake)
+   Qt: 6.9.0
+  uic N3VMeshEditor.ui
+  rcc N3VMeshEditor.qrc
+  moc N3VMeshEditor.h
+  moc QDirect3D11Widget.h
+   RCC: Warning: No resources in 'C:\Projects\N3VMeshEditor\N3VMeshEditor\N3VMeshEditor\N3VMeshEditor.qrc'.
+  CN3VMesh.cpp
+  N3VMesh.cpp
+  QDirect3D11Widget.cpp
+  D3D11Renderer.cpp
+  N3VMeshEditor.cpp
+  main.cpp
+C:\Projects\N3VMeshEditor\N3VMeshEditor\N3VMeshEditor\D3D11Renderer.cpp(162,35): warning C4267: 'bağımsız değişken': 'size_t' - 'UINT' dönüşümü; veri kaybı olabilir
+C:\Projects\N3VMeshEditor\N3VMeshEditor\N3VMeshEditor\D3D11Renderer.cpp(275,48): warning C4267: '=': 'size_t' - 'UINT' dönüşümü; veri kaybı olabilir
+C:\Projects\N3VMeshEditor\N3VMeshEditor\N3VMeshEditor\D3D11Renderer.cpp(290,43): warning C4267: '=': 'size_t' - 'UINT' dönüşümü; veri kaybı olabilir
+  qrc_N3VMeshEditor.cpp
+  moc_N3VMeshEditor.cpp
+  moc_QDirect3D11Widget.cpp
+  N3VMeshEditor.vcxproj -> C:\Projects\N3VMeshEditor\N3VMeshEditor\x64\Debug\N3VMeshEditor.exe
